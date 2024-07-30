@@ -1,5 +1,3 @@
-package com.github.dhmel;
-
 public class Value {
 
     private int id;
